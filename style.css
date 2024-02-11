@@ -1,0 +1,36 @@
+body{
+  
+    background-image: url(car.webp);
+
+    background-repeat: no-repeat;
+
+   background-size: cover;
+
+   backdrop-filter: blur(5px);
+
+}
+
+
+h1{
+
+    color:   chocolate ;
+}
+
+h3{
+
+    color: #44e4ff ;
+}
+
+a{
+    color: chartreuse ;
+}
+h2{
+
+      color: crimson;
+}
+
+p{
+
+    color: antiquewhite;
+}
+
